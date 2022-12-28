@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20221228T124810
+DESCRIPTION:In gemütlicher Runde wird sich über Veganismus ausgetauscht un
+ d dabei leckere vegane Speisen probiert.\nBemerkung: Ab 17 Uhr gemeinsame
+ s Vorbereiten\, spendenbasiert
+DTEND:20230125T200000
+DTSTAMP:20221228T114810Z
+DTSTART:20230125T180000
+LOCATION:Pi-Haus (Beethovenstraße 5\, 09599 Freiberg)
+SEQUENCE:0
+SUMMARY:Veganer Stammtisch: Monatliches Treffen
+UID:0ed6035d-4c5c-41dc-97b4-8ec46a7f8bce
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20221228T124810
+DESCRIPTION:Filmvorführung  zum Thema Plastikmüll in Gewässern\nBemerkung:
+  Evtl. kommt auch der Regisseur\, Kooperation von AG Umwelt\, Agenda 21\,
+  SEBIT\, ePi-zentrum
+DTEND:20230131T230000
+DTSTAMP:20221228T114810Z
+DTSTART:20230131T200000
+LOCATION:Stadtwirtschaft (Burgstraße 18\, 09599 Freiberg)
+SEQUENCE:0
+SUMMARY:AG Umwelt: Filmvorführung "The North Drift"
+UID:5cffdb2e-1721-4947-8f25-75debf5dc493
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20221228T124810
+DESCRIPTION:Sie können dort mit einer Vielzahl von Werkzeugen und mit der 
+ Hilfe durch Ehrenamtliche defekte Haushaltsgeräte\, Elektronikgeräte\, ih
+ r Fahrrad oder ähnliche Gegenstände reparieren.\nBemerkung: Immer am 1. M
+ ittwoch im Monat
+DTEND:20230201T200000
+DTSTAMP:20221228T114810Z
+DTSTART:20230201T180000
+LOCATION:Mehrgenerationenhaus „Buntes Haus" (Tschaikowskistraße 57a\, 0959
+ 9 Freiberg)
+SEQUENCE:0
+SUMMARY:Reparaturcafé: Monatliches Treffen
+UID:a96abde0-8c4a-4165-b617-1b2598b9215a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20221228T124810
+DESCRIPTION:In gemütlicher Runde wird sich über Veganismus ausgetauscht un
+ d dabei leckere vegane Speisen probiert.\nBemerkung: Ab 17 Uhr gemeinsame
+ s Vorbereiten\, spendenbasiert
+DTEND:20230222T200000
+DTSTAMP:20221228T114810Z
+DTSTART:20230222T180000
+LOCATION:Pi-Haus (Beethovenstraße 5\, 09599 Freiberg)
+SEQUENCE:0
+SUMMARY:Veganer Stammtisch: Monatliches Treffen
+UID:621a8692-ff1d-43c0-942a-91b0c71dce6f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20221228T124810
+DESCRIPTION:Info- und Dialogveranstaltung zum Thema Klimaschutz\nBemerkung:
+DTEND:20230303T170000
+DTSTAMP:20221228T114810Z
+DTSTART:20230303T140000
+LOCATION:Obermarkt Freiberg
+SEQUENCE:0
+SUMMARY:FFF: Globaler Klimastreik - Infoveranstaltung
+UID:488cc9c3-7593-42ea-92cc-33efb9ea406a
+END:VEVENT
+END:VCALENDAR
+
